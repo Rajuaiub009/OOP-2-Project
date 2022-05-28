@@ -1,0 +1,25 @@
+E:\New folder\Film Library Management System\bin\Debug\Film Library Management System.exe.config
+E:\New folder\Film Library Management System\bin\Debug\Film Library Management System.exe
+E:\New folder\Film Library Management System\bin\Debug\Film Library Management System.pdb
+E:\New folder\Film Library Management System\obj\Debug\Film Library Management System.csproj.AssemblyReference.cache
+E:\New folder\Film Library Management System\obj\Debug\Film_Library_Management_System.Login.resources
+E:\New folder\Film Library Management System\obj\Debug\Film_Library_Management_System.Properties.Resources.resources
+E:\New folder\Film Library Management System\obj\Debug\Film_Library_Management_System.SignUp.resources
+E:\New folder\Film Library Management System\obj\Debug\Film Library Management System.csproj.GenerateResource.cache
+E:\New folder\Film Library Management System\obj\Debug\Film Library Management System.csproj.CoreCompileInputs.cache
+E:\New folder\Film Library Management System\obj\Debug\Film Library Management System.exe
+E:\New folder\Film Library Management System\obj\Debug\Film Library Management System.pdb
+E:\New folder\Film Library Management System\obj\Debug\Film_Library_Management_System.Form1.resources
+E:\New folder\Film Library Management System\obj\Debug\Film_Library_Management_System.Admin.resources
+E:\New folder\Film Library Management System\bin\Debug\DataAccess.dll
+E:\New folder\Film Library Management System\bin\Debug\DataAccess.pdb
+E:\New folder\Film Library Management System\obj\Debug\Film_Library_Management_System.Movie.resources
+E:\New folder\Film Library Management System\obj\Debug\Film Library Management System.csproj.CopyComplete
+E:\New folder\Film Library Management System\obj\Debug\Film_Library_Management_System.Update.resources
+E:\New folder\Film Library Management System\obj\Debug\Film_Library_Management_System.User.resources
+E:\New folder\Film Library Management System\bin\Debug\Interop.WMPLib.dll
+E:\New folder\Film Library Management System\bin\Debug\AxInterop.WMPLib.dll
+E:\New folder\Film Library Management System\obj\Debug\Interop.WMPLib.dll
+E:\New folder\Film Library Management System\obj\Debug\AxInterop.WMPLib.dll
+E:\New folder\Film Library Management System\obj\Debug\Film Library Management System.csproj.ResolveComReference.cache
+E:\New folder\Film Library Management System\obj\Debug\Film_Library_Management_System.Change_Password.resources

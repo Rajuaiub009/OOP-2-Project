@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Film Library Management System", "Film Library Management System.csproj", "{1F185249-36D2-4A74-95BA-672087DA92BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "..\DataAccess\DataAccess.csproj", "{2FF9787C-2014-4991-AECC-6C8C697E7527}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F185249-36D2-4A74-95BA-672087DA92BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F185249-36D2-4A74-95BA-672087DA92BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F185249-36D2-4A74-95BA-672087DA92BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F185249-36D2-4A74-95BA-672087DA92BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FF9787C-2014-4991-AECC-6C8C697E7527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FF9787C-2014-4991-AECC-6C8C697E7527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FF9787C-2014-4991-AECC-6C8C697E7527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FF9787C-2014-4991-AECC-6C8C697E7527}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {218E9FF9-B5B4-4BCF-9C4C-8A72A9D3E534}
+	EndGlobalSection
+EndGlobal
